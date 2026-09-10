@@ -1,50 +1,89 @@
 # FUTURE_FS_01 - Personal Professional Portfolio
 
-## About
+## 👨‍💻 About
 
-This project is a personal professional portfolio website created
-for the Future Interns Full Stack Web Development Internship.
+This project is a personal professional portfolio website
+created for the Future Interns Full Stack Web Development
+Internship - Task 1.
 
-## Features
+The website showcases my professional profile, technical
+skills, education, projects and contact information.
 
-- Responsive portfolio design
-- Home section
-- About section
-- Technical skills section
+## 🚀 Features
+
+- Responsive personal portfolio
+- Professional home section
+- About Me section
+- Technical Skills section
 - Projects section
-- Resume section
+- Education section
 - Contact form
-- GitHub and LinkedIn links
+- GitHub profile link
+- LinkedIn profile link
 - Mobile navigation
 - SEO-friendly HTML structure
+- Responsive design for different screen sizes
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- Git
+- GitHub
 
-## Project Structure
+## 💻 Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- MySQL
+
+## 🎓 Education
+
+Vivekanand Education Society College
+of Arts Science and Commerce
+
+## 📁 Project Structure
 
 FUTURE_FS_01/
-│
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
-## How to Run
+## ▶️ How to Run
 
-1. Download or clone the repository.
+1. Clone the repository.
 2. Open the project in VS Code.
-3. Open index.html using Live Server.
+3. Open `index.html` with Live Server.
 
-## Author
+## 🌐 Live Website
 
-Your Name
+GitHub Pages:
 
-## Internship
+https://yashjain07dbhs.github.io/FUTURE_FS_01/
+
+## 🔗 GitHub
+
+https://github.com/yashjain07dbhs
+
+## 🔗 LinkedIn
+
+https://www.linkedin.com/in/yash-jain-432391418/
+
+## 👤 Author
+
+Yash Jain
+
+## 📌 Internship
 
 Future Interns
+
 Full Stack Web Development
-Task 1
+
+Task 1 - Personal Professional Portfolio
